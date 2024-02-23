@@ -29,7 +29,7 @@ We're developing a dynamic SaaS platform with automated email sorting and analys
 Our platform is tailored for businesses seeking efficiency in customer relations and operations, with a focus on actionable insights and continuous improvement.
 
 ### Visualize the Solution
-
+![Alpha Version Screenshot](./alpha_ver.png)
 
 ## Scale and Scope
 The platform is scalable for departments of all sizes and will evolve with advanced AI features and deeper CRM integration informed by user feedback.

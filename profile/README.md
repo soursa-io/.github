@@ -4,7 +4,7 @@
 
 ---
 
-![Soursa Preview](./soursa.jpg)  
+![Soursa Preview](soursa.jpg)  
 
 ---
 

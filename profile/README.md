@@ -4,6 +4,11 @@
 
 ---
 
+![Soursa Preview](./soursa.jpg)  
+
+---
+
+
 ## 🚀 What We’re Building  
 
 Soursa is a SaaS solution that integrates with Microsoft Outlook and Microsoft Graph API to provide:  
